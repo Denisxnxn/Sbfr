@@ -4,6 +4,7 @@
     "TimeTime": ["Istanbul", "Turkey", "Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
     "Urils": 
     [ 
-          { "Lang":"Turkish", "Link": ""}
+          { "Lang":"Turkish", "Link": ""},
+          { "Lang":"Portuguese", "Link": ""}
     ]
  }
