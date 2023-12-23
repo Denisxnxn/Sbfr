@@ -1,9 +1,9 @@
 {
-    "PermissEnter": false,
+    "PermissEnter": true,
     "Lglang": ["Turkish"],
     "TimeTime": ["Istanbul", "Turkey"],
     "Urils": 
     [ 
-          { "Lang":"Turkish", "Link": ""}
+          { "Lang":"Turkish", "Link": "https://csnpin.com/L8GzgmlP/"}
     ]
  }
